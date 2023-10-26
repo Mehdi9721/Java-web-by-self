@@ -1,9 +1,10 @@
 # Java-web-by-self
-1-Java beans
-2-Networking and security in java
-3-Working with jdbc
-4-Servlet 4.0
-5-Handling session in servlet
+## Modules
+1-Java beans.
+2-Networking and security in java.
+3-Working with jdbc.
+4-Servlet 4.0.
+5-Handling session in servlet.
 6-Implement event handling and wrappers in servlet.
 7- java server page 2.3 and expression language.
 8- implementing jsp tag extension 
